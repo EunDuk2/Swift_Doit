@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         lampImg.image = imgOn
     }
-    // github test1
+    // github test2
     @IBAction func btnLampOn(_ sender: UIButton) {
         if(isLampOn==true){
             
